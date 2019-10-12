@@ -65,7 +65,7 @@ go to `http://localhost:8080/us/console` to access the console.
 
 ##
 
-## run
+## Tutorial
 
 ```
 $ docker run -i -t cppmicroservices/examples /src/CppMicroServices/bin/usTutorialDriver
